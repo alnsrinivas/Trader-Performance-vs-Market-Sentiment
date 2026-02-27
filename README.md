@@ -42,6 +42,3 @@ The primary objective of this project is to analyze the correlation between Bitc
 * **Strategy 2: Adaptive Trading Limits**
     * **Rule:** Trigger a **"Cooling-Off" period** (limit on daily trade count) for frequent traders if their win rate drops below 40% during **Greed** .
     * **Rationale:** This mitigates capital erosion caused by low-conviction, sentiment-chasing trades.
-
----
-[cite_start]*Created as part of the Data Science Intern assignment for Primetrade.ai.* [cite: 88, 167]
